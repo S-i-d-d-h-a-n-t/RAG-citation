@@ -1,0 +1,18 @@
+# PDF extraction
+pypdf==4.3.1
+
+# Local embeddings (no API key needed)
+sentence-transformers==3.3.1
+
+# Vector math for our hand-rolled vector store (no C++ compilation needed)
+# numpy is also a transitive dep of sentence-transformers, pinned here for clarity
+numpy>=1.26,<3.0
+
+# LLM (Gemini)
+google-genai==1.9.0
+
+# UI
+streamlit==1.41.1
+
+# Utilities
+python-dotenv==1.0.1

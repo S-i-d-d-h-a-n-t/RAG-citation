@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.venv
+
+# Environment variables / secrets
+.env
+.env.local
+.env.*.local
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# RAG project data (generated at runtime — do not commit)
+db/
+chroma_db/
+*.npz
+*.faiss
+
+# Sample PDFs can be regenerated — uncomment the next line if you want to exclude them too
+# docs/

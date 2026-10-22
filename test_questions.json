@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the vanishing gradient problem?",
+    "expected_file": "neural_networks.pdf",
+    "expected_page": 2,
+    "answerable": true
+  },
+  {
+    "question": "Which loss function is typically used for regression tasks?",
+    "expected_file": "neural_networks.pdf",
+    "expected_page": 1,
+    "answerable": true
+  },
+  {
+    "question": "What does batch normalisation do?",
+    "expected_file": "neural_networks.pdf",
+    "expected_page": 3,
+    "answerable": true
+  },
+  {
+    "question": "Why don't CPU-bound tasks benefit from threading in CPython?",
+    "expected_file": "python_concurrency.pdf",
+    "expected_page": 1,
+    "answerable": true
+  },
+  {
+    "question": "How do you prevent race conditions when using threading?",
+    "expected_file": "python_concurrency.pdf",
+    "expected_page": 3,
+    "answerable": true
+  },
+  {
+    "question": "What is the greenhouse effect?",
+    "expected_file": "climate_science.pdf",
+    "expected_page": 1,
+    "answerable": true
+  },
+  {
+    "question": "How much carbon does photosynthesis remove from the atmosphere annually?",
+    "expected_file": "climate_science.pdf",
+    "expected_page": 2,
+    "answerable": true
+  },
+  {
+    "question": "What could happen if the Amazon rainforest experiences dieback?",
+    "expected_file": "climate_science.pdf",
+    "expected_page": 3,
+    "answerable": true
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected_file": null,
+    "expected_page": null,
+    "answerable": false
+  },
+  {
+    "question": "How do I write a React component?",
+    "expected_file": null,
+    "expected_page": null,
+    "answerable": false
+  }
+]
